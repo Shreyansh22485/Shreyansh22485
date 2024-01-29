@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a MERN **
+ 🔭 I’m currently working on **a MERN Blog App**
  
  🌱 I’m currently learning **React**
 
