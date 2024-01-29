@@ -4,6 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreyansh+Srivastav!;" />
 </h1>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **a MERN **
+ 
+ 🌱 I’m currently learning **React**
+
+
+
+ </div>
 
 <!--
 **Shreyansh22485/Shreyansh22485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
